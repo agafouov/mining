@@ -1,13 +1,13 @@
 {
   "files": {
-    "main.css": "/mining/static/css/main.19b8b437.css",
-    "main.js": "/mining/static/js/main.07a6194d.js",
+    "main.css": "/mining/static/css/main.d4e1a74d.css",
+    "main.js": "/mining/static/js/main.419e804a.js",
     "index.html": "/mining/index.html",
-    "main.19b8b437.css.map": "/mining/static/css/main.19b8b437.css.map",
-    "main.07a6194d.js.map": "/mining/static/js/main.07a6194d.js.map"
+    "main.d4e1a74d.css.map": "/mining/static/css/main.d4e1a74d.css.map",
+    "main.419e804a.js.map": "/mining/static/js/main.419e804a.js.map"
   },
   "entrypoints": [
-    "static/css/main.19b8b437.css",
-    "static/js/main.07a6194d.js"
+    "static/css/main.d4e1a74d.css",
+    "static/js/main.419e804a.js"
   ]
 }
