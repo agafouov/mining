@@ -1,15 +1,15 @@
 {
   "files": {
     "main.css": "/mining/static/css/main.5570b3b7.css",
-    "main.js": "/mining/static/js/main.e6fa395d.js",
+    "main.js": "/mining/static/js/main.6962424c.js",
     "static/media/bg-white.png": "/mining/static/media/bg-white.cf5dc69713bd16108d5b.png",
     "static/media/bg-hole.png": "/mining/static/media/bg-hole.e4a283426ca3ba74dd69.png",
     "index.html": "/mining/index.html",
     "main.5570b3b7.css.map": "/mining/static/css/main.5570b3b7.css.map",
-    "main.e6fa395d.js.map": "/mining/static/js/main.e6fa395d.js.map"
+    "main.6962424c.js.map": "/mining/static/js/main.6962424c.js.map"
   },
   "entrypoints": [
     "static/css/main.5570b3b7.css",
-    "static/js/main.e6fa395d.js"
+    "static/js/main.6962424c.js"
   ]
 }
