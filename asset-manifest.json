@@ -1,7 +1,7 @@
 {
   "files": {
-    "main.css": "/mining/static/css/main.b1cdd32f.css",
-    "main.js": "/mining/static/js/main.69efad0e.js",
+    "main.css": "/mining/static/css/main.f6d241c0.css",
+    "main.js": "/mining/static/js/main.c399884d.js",
     "static/media/future5.png": "/mining/static/media/future5.94b5b8a1d4d39780d8ae.png",
     "static/media/future3.png": "/mining/static/media/future3.a889b26056c8ee6cc24e.png",
     "static/media/future1.png": "/mining/static/media/future1.cc0cdf608009640ed6b7.png",
@@ -10,11 +10,11 @@
     "static/media/future6.png": "/mining/static/media/future6.8972286815eb410dc36e.png",
     "static/media/bg-hole.png": "/mining/static/media/bg-hole.e4a283426ca3ba74dd69.png",
     "index.html": "/mining/index.html",
-    "main.b1cdd32f.css.map": "/mining/static/css/main.b1cdd32f.css.map",
-    "main.69efad0e.js.map": "/mining/static/js/main.69efad0e.js.map"
+    "main.f6d241c0.css.map": "/mining/static/css/main.f6d241c0.css.map",
+    "main.c399884d.js.map": "/mining/static/js/main.c399884d.js.map"
   },
   "entrypoints": [
-    "static/css/main.b1cdd32f.css",
-    "static/js/main.69efad0e.js"
+    "static/css/main.f6d241c0.css",
+    "static/js/main.c399884d.js"
   ]
 }
