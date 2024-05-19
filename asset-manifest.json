@@ -1,20 +1,21 @@
 {
   "files": {
-    "main.css": "/mining/static/css/main.b43ea2bc.css",
-    "main.js": "/mining/static/js/main.e03c452d.js",
+    "main.css": "/mining/static/css/main.6474457d.css",
+    "main.js": "/mining/static/js/main.22c360d2.js",
     "static/media/future5.png": "/mining/static/media/future5.94b5b8a1d4d39780d8ae.png",
     "static/media/future3.png": "/mining/static/media/future3.a889b26056c8ee6cc24e.png",
     "static/media/future1.png": "/mining/static/media/future1.cc0cdf608009640ed6b7.png",
     "static/media/future4.png": "/mining/static/media/future4.cfb93cdd07567ae6912e.png",
+    "static/media/main-bg-bronze.png": "/mining/static/media/main-bg-bronze.9c787bb21e80ddda1800.png",
     "static/media/future2.png": "/mining/static/media/future2.d09817ebeb25a3b8d9ae.png",
     "static/media/future6.png": "/mining/static/media/future6.8972286815eb410dc36e.png",
     "static/media/bg-hole.png": "/mining/static/media/bg-hole.e4a283426ca3ba74dd69.png",
     "index.html": "/mining/index.html",
-    "main.b43ea2bc.css.map": "/mining/static/css/main.b43ea2bc.css.map",
-    "main.e03c452d.js.map": "/mining/static/js/main.e03c452d.js.map"
+    "main.6474457d.css.map": "/mining/static/css/main.6474457d.css.map",
+    "main.22c360d2.js.map": "/mining/static/js/main.22c360d2.js.map"
   },
   "entrypoints": [
-    "static/css/main.b43ea2bc.css",
-    "static/js/main.e03c452d.js"
+    "static/css/main.6474457d.css",
+    "static/js/main.22c360d2.js"
   ]
 }
